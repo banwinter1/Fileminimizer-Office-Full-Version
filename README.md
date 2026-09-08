@@ -238,3 +238,6 @@ This repository serves as the official landing page for FILEminimizer Office. Th
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of FILEminimizer Office today!**
+
+---
+**Last updated:** 2026-09-08 12:49:13 UTC
