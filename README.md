@@ -240,4 +240,4 @@ This repository serves as the official landing page for FILEminimizer Office. Th
 **Get the most recent version of FILEminimizer Office today!**
 
 ---
-**Last updated:** 2026-09-10 22:25:42 UTC
+**Last updated:** 2026-09-11 00:55:05 UTC
